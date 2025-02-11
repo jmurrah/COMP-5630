@@ -1,1 +1,1 @@
-All assignments for COMP-5630
+COMP-5630 Machine Learning
